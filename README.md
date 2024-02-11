@@ -1,1 +1,1 @@
-# djanog_learn_blog_project
+# djanog_learn_blog_kala_project
