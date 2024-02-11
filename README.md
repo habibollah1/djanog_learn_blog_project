@@ -1,1 +1,1 @@
-# djanog_learn_blog_kala_project
+# django_learn_blog_kala_project
